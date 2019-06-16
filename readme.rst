@@ -1,3 +1,7 @@
+# Codeigniter-and-AngularJS-CRUD-with-Search-and-Pagination
+Codeigniter and AngularJS CRUD with Search and Pagination
+[Article](https://astutesixface.com/2019/06/16/codeigniter-and-angularjs-crud-with-search-and-pagination)
+
 ###################
 What is CodeIgniter
 ###################
